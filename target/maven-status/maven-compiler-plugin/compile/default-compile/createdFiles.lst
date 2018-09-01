@@ -1,0 +1,3 @@
+com\exercise\model\Item.class
+com\exercise\repository\InventoryRepository.class
+com\exercise\service\InventoryService.class
